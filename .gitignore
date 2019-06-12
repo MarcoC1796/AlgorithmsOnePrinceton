@@ -1,2 +1,4 @@
 .idea/*
-venv/
+venv/*
+percolation/.idea/*
+percolation/.lift/*
